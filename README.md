@@ -2,7 +2,7 @@
 This is an email bot that sends you the prices of ethurum and bitcoin to you every day 
 
 
-This repository includes a Crypto email bot from the site= https://api.coingecko.com
+This repository includes a Crypto email bot from the site= https://api.coingecko.com.
 Ive scraped the site 18-06-2026
 
 What ive learned

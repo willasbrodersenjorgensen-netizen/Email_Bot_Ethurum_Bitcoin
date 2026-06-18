@@ -1,7 +1,9 @@
 # Email_Bot_Ethurum_Bitcoin
 This is an email bot that sends you the prices of ethurum and bitcoin to you every day 
 
+
 This repository includes a Crypto email bot from the site= https://api.coingecko.com
+Ive scraped the site 18-06-2026
 
 What ive learned
 Building this project learned me to apply the modules requests, smtplib, email.mime and the datetime module to build an automated email bot. Ive used a simple API= https://api.coingecko.com/api/v3/simple/price to get the live prices of Bitcoin and Ethereum without needing API keys.
